@@ -1,0 +1,22 @@
+/*
+ * Social: sign-in screen "Network" (plum, a web of people with one glowing node).
+ * Loaded by the subject-site-template UI (2.x) after its own css/hub.css,
+ * named in subject.json "theme". Only variables and the art area are set;
+ * the url() is relative to this file. No book content here.
+ */
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@700&display=swap");
+
+:root {
+  --gate-bg: #2a1745;
+  --gate-fg: #ffffff;
+  --gate-muted: #dccffa;
+  --gate-button-bg: #ffd166;
+  --gate-button-fg: #2a1745;
+  --gate-heading-font: "Sora", system-ui, sans-serif;
+  --gate-focus: #ffd166;
+}
+
+#gate .gate-art {
+  min-height: 42vh;
+  background: url("network.svg") center / contain no-repeat;
+}
