@@ -7,6 +7,15 @@
       "views": [
         "quiz"
       ]
+    },
+    {
+      "folder": "the-social-animal",
+      "id": "the-social-animal",
+      "title": "The Social Animal",
+      "views": [
+        "quiz",
+        "read"
+      ]
     }
   ]
 }
