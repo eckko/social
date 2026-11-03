@@ -1,3 +1,12 @@
 {
-  "books": []
+  "books": [
+    {
+      "folder": "the-definitive-book-of-body-language",
+      "id": "the-definitive-book-of-body-language",
+      "title": "The Definitive Book of Body Language",
+      "views": [
+        "quiz"
+      ]
+    }
+  ]
 }
