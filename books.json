@@ -16,6 +16,15 @@
         "quiz",
         "read"
       ]
+    },
+    {
+      "folder": "what-every-body-is-saying",
+      "id": "what-every-body-is-saying",
+      "title": "What Every BODY Is Saying",
+      "views": [
+        "quiz",
+        "read"
+      ]
     }
   ]
 }
